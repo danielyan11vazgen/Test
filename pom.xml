@@ -8,5 +8,6 @@
     <artifactId>com.sflpro.test</artifactId>
     <version>0.0.1</version>
 
+    <name>Test</name>
 
 </project>
